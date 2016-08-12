@@ -5,6 +5,7 @@
  ---  | ---
  ArrayUtils|数组工具类，提供一些有关数组的便捷方法
  Base64| 加密
+ BeanUtils|实体类工具
  ByteUtils|字节工具类，提供一些有关字节的便捷方法
  CheckingUtils|提供常用数据验证的工具类，不符合的话就抛异常
  ClassUtils|Class工具类
