@@ -29,3 +29,20 @@
  TimeUtils| 时间处理工具类
  TransitionTime|用来计算显示的时间是多久之前
  ZipUtil|实现的Zip工具
+ 
+## Usage
+	pom.xml:
+    <repositories>
+        <repository>
+            <id>daniel-maven-repo</id>
+        <url>http://git.oschina.net/jsw5297/mvnRepo/raw/master</url>
+        </repository>
+    </repositories>
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.ds</groupId>
+            <artifactId>ds-commons</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
